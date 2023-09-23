@@ -1,0 +1,29 @@
+.bagian_atas{
+          display: flex;
+          align-items: left;
+}
+.bagian_atas img{
+    width: 300px;
+    height: 250px;
+    margin-right: 10px;
+}
+
+.atas1{
+      font-size: 50px;
+      margin-top: 5%;
+      text-align: center;
+}
+
+.bawah1{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.garisbawah{
+         border-bottom: 10px solid black;
+         margin-top: 70px;
+         width: 1250px;
+         text-align: left;
+}
